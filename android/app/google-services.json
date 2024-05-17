@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "39328032293",
+    "project_id": "bu-connect-1",
+    "storage_bucket": "bu-connect-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39328032293:android:d5566214fec39ab96b81cc",
+        "android_client_info": {
+          "package_name": "com.example.bu_connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39328032293-03vl9fu2grvk2k175e27bfunmo68kfj1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bu_connect",
+            "certificate_hash": "8fa1748b7693c86b628800c618ccbcc35066b104"
+          }
+        },
+        {
+          "client_id": "39328032293-75stu55mplim0i4ta9dv2bf81gg45qae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnMxLiHeU_OXWqtyulp-0hE3Ty-ft5yCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39328032293-75stu55mplim0i4ta9dv2bf81gg45qae.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "39328032293-a096c73c9r5ug5me1h9o5dor1vmlpr4p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.buConnect"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
