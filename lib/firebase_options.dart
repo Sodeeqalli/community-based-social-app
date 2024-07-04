@@ -64,7 +64,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyC06xR0DRtEsvD8gLfg9nDa8fWRQfQeYRo',
+    apiKey: '',
     appId: '1:39328032293:ios:c8d34b855f6b86216b81cc',
     messagingSenderId: '39328032293',
     projectId: 'bu-connect-1',
